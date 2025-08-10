@@ -1,3 +1,10 @@
+# Obsolete!
+
+This module has been superseded by the https://github.com/FurtherV/furtherv-effect-expiration module!
+
+**Development of this module is no longer active.**
+
+
 # Automated Effect Expiration for DnD5e
 
 ## Description
